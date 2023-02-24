@@ -1,0 +1,15 @@
+C:\Users\jpanz\Documents\GitHub\prevodnikTeplot\bin\Debug\net7.0\prevodnikTeplot.exe
+C:\Users\jpanz\Documents\GitHub\prevodnikTeplot\bin\Debug\net7.0\prevodnikTeplot.deps.json
+C:\Users\jpanz\Documents\GitHub\prevodnikTeplot\bin\Debug\net7.0\prevodnikTeplot.runtimeconfig.json
+C:\Users\jpanz\Documents\GitHub\prevodnikTeplot\bin\Debug\net7.0\prevodnikTeplot.dll
+C:\Users\jpanz\Documents\GitHub\prevodnikTeplot\bin\Debug\net7.0\prevodnikTeplot.pdb
+C:\Users\jpanz\Documents\GitHub\prevodnikTeplot\obj\Debug\net7.0\prevodnikTeplot.csproj.AssemblyReference.cache
+C:\Users\jpanz\Documents\GitHub\prevodnikTeplot\obj\Debug\net7.0\prevodnikTeplot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpanz\Documents\GitHub\prevodnikTeplot\obj\Debug\net7.0\prevodnikTeplot.AssemblyInfoInputs.cache
+C:\Users\jpanz\Documents\GitHub\prevodnikTeplot\obj\Debug\net7.0\prevodnikTeplot.AssemblyInfo.cs
+C:\Users\jpanz\Documents\GitHub\prevodnikTeplot\obj\Debug\net7.0\prevodnikTeplot.csproj.CoreCompileInputs.cache
+C:\Users\jpanz\Documents\GitHub\prevodnikTeplot\obj\Debug\net7.0\prevodnikTeplot.dll
+C:\Users\jpanz\Documents\GitHub\prevodnikTeplot\obj\Debug\net7.0\refint\prevodnikTeplot.dll
+C:\Users\jpanz\Documents\GitHub\prevodnikTeplot\obj\Debug\net7.0\prevodnikTeplot.pdb
+C:\Users\jpanz\Documents\GitHub\prevodnikTeplot\obj\Debug\net7.0\prevodnikTeplot.genruntimeconfig.cache
+C:\Users\jpanz\Documents\GitHub\prevodnikTeplot\obj\Debug\net7.0\ref\prevodnikTeplot.dll
